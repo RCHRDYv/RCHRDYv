@@ -8,17 +8,6 @@ _I design measurement and decision systems. Over 5+ years working with data in m
 
 ---
 
-### Resultados · Results
-
-- Reverti sete meses de estagnação do CSAT numa operação de mais de 600 pessoas, com uma metodologia estatística de calibração de metas por quartil. **(Stone)**
-- Criei um data contract semântico com as duas parceiras de BPO, e os chamados de dúvida sobre dados caíram de 10 para 2 por mês. **(Stone)**
-- Troquei 8 painéis fragmentados por um produto de dados próprio, uma aplicação web usada todo dia pelos líderes, e o fechamento mensal passou de 4 horas para 30 minutos. **(Stone)**
-- Apresentei, em inglês, o produto de dados executivo de conversão de assinaturas às vice-presidências de marketing LATAM da Disney, HBO e Amazon. **(Webedia)**
-
-_Reversed seven months of flat CSAT in a 600+ person operation with quartile-based target calibration. Built a semantic data contract with two BPO partners, cutting data questions from 10 to 2 a month. Replaced 8 fragmented reports with an in-house data product and cut the monthly close from 4 hours to 30 minutes. Presented, in English, the executive subscription data product to the LATAM marketing VPs of Disney, HBO and Amazon._
-
----
-
 ### No que estou trabalhando · Currently building
 
 **[bcb-credito-governanca](https://github.com/RCHRDYv/bcb-credito-governanca)**
